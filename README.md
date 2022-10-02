@@ -1,1 +1,1 @@
-# MSc-Projects
+Accurate forecasting of the day-ahead electricity price is crucial to maximize the profits of electricity trading entities.This project mainly consists of two parts: 1. Perform exlporatory data analysis of energy and weather data of Spain. 2. Use different forecasting models to predict the next 24 hours of energy price.
